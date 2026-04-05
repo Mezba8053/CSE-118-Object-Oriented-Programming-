@@ -1,0 +1,15 @@
+CSE-118 Object-Oriented Programming - Requirements
+
+Required:
+- Java Development Kit (JDK) 11 or newer
+- JavaFX SDK compatible with your JDK if JavaFX is not bundled by your IDE/runtime
+- An IDE that supports Java projects, such as IntelliJ IDEA or VS Code
+- Maven for the sample project under JAVA FX/Animation/src/sample/demo
+
+Recommended:
+- JDK 17 for the module-based JavaFX projects
+- The same Java version for compiling and running each project
+
+Notes:
+- Most folders are independent projects and can be opened separately in your IDE
+- Add JavaFX libraries to the module path if your IDE does not configure them automatically
